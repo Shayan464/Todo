@@ -120,7 +120,3 @@ Software Developer | MERN Stack
 ---
 
 ⭐ If you find this project helpful, don’t forget to star the repo!
-
-```
-
-
